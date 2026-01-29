@@ -1,18 +1,39 @@
 # CS Coursework Projects
 
-These projects were developed as part of my Computer Science coursework at Kennesaw State University.
+This repository contains selected programming projects completed as part of my Computer Science coursework at Kennesaw State University.
 
-They demonstrate:
-- Problem-solving and logical thinking
+These projects demonstrate:
+- Problem-solving and logical reasoning
 - Control flow (loops, conditionals)
-- Functions and modular design
-- Basic object-oriented programming
-- Input validation and error handling
+- Functions and modular program design
+- Object-oriented programming fundamentals
+- Input validation and basic error handling
 
 ## Selected Projects
 
-- **OwlBanking System** – Console-based banking simulation with deposits, withdrawals, and transaction history  
-- **Treasure Hunt Game** – Grid-based game using 2D lists and randomness  
-- **Rent-A-Car System** – Object-oriented program modeling cars, rentals, and returns  
+### OwlBanking System (Python)
+Console-based banking simulation that allows users to:
+- Deposit and withdraw funds
+- View current balance
+- Track transaction history
 
-More projects may be added as coursework progresses.
+**Concepts used:** control flow, user input validation, formatted output, state management
+
+---
+
+### Treasure Hunt Game (Python)
+Grid-based game where users search for randomly placed treasures on a 2D board.
+
+**Concepts used:** 2D lists, randomness, loops, conditional logic
+
+---
+
+### Owl Rent-A-Car System (Python, OOP)
+Object-oriented program modeling a car rental system with:
+- Car inventory management
+- Rental and return workflows
+- Daily rate calculation
+
+**Concepts used:** classes, object interaction, encapsulation, basic system modeling
+
+More projects will be added as coursework progresses.
